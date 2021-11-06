@@ -1,0 +1,17 @@
+@import url(https://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic);
+.container{
+    width: 100vw;
+    height: 100vh;
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    background-color: rgb(29, 31, 51);
+
+    .exchangeRate{
+        font-family: 'PT Sans', serif;
+        font-size: 40px;
+        color: rgb(139, 144, 167);
+    }
+}
